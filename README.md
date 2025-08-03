@@ -40,12 +40,19 @@
 
 ---
 
-### 📈 GitHub Stats
+---
+
+### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurdodiya&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdodiya&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurdodiya&show_icons=true&theme=github_dark&hide_title=false&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdodiya&layout=compact&theme=github_dark&langs_count=8&hide_title=false" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=darkhub&column=6&margin-w=10&margin-h=15" width="95%" />
+</p>
+
 
 ---
 
