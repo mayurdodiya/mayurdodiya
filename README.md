@@ -42,10 +42,22 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurdodiya&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true" width="45%"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdodiya&layout=compact&theme=radical&langs_count=8&hide_title=false" width="45%"/>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mayurdodiya&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true"
+    width="400"
+    height="200"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdodiya&layout=compact&theme=radical&langs_count=8&hide_title=false"
+    width="400"
+    height="200"
+  />
+
 </div>
+
 
 ---
 
