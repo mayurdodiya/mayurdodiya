@@ -36,7 +36,7 @@
 - 🌍 Actively seeking **full-time job opportunities** with **relocation readiness**
 - ✅ Willing to start with a **small trial task at no cost** to build trust
 
-<hr style="border-color:#d0d7de;height:1px">
+<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 🧰 Tech Stack
 
@@ -113,7 +113,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-<hr style="border-color:#d0d7de;height:1px">
+<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 📈 Project Highlights
 
@@ -135,7 +135,7 @@
 - 📈 **IBKR (Interactive Brokers)** — Trading and financial data integration
 - 🔔 **Twilio** — SMS and voice communication services
 
-<hr style="border-color:#d0d7de;height:1px">
+<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 📊 GitHub Stats & Languages
 
@@ -152,7 +152,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=darkhub&column=6&margin-w=10&margin-h=15" width="95%" />
 </p> -->
 
-<!-- <hr style="border-color:#d0d7de;height:1px"> -->
 
 <!-- ### ☕ Like My Work?
 
@@ -162,7 +161,7 @@
   </a>
 </p> -->
 
-<hr style="border-color:#d0d7de;height:1px">
+<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 📫 Contact Me
 
@@ -172,7 +171,7 @@
 - 🔗 **LinkedIn**: [linkedin.com/in/mayurdodiya](https://www.linkedin.com/in/mayurdodiya)
 - 💻 **GitHub**: [github.com/mayurdodiya](https://github.com/mayurdodiya)
 
-<hr style="border-color:#d0d7de;height:1px">
+<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 > _"I don't just build software — I engineer reliable and scalable systems to solve real-world problems."_
 > 🔍 Let's connect and build something exceptional.
