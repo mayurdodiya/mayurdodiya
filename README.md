@@ -153,22 +153,59 @@
   <img src="https://streak-stats.demolab.com/?user=mayurdodiya&theme=github-dark-blue&hide_border=false" width="60%" />
 </p>
 
-<!-- GitHub Trophies — using a stable alternative URL -->
+<!-- GitHub Trophies — using ryo-ma's self-hosted stable instance -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=darkhub&column=6&margin-w=10&margin-h=15&no-frame=false" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=dark_lover&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="95%" />
 </p>
 
-<!-- Activity graph — using the maintained fork -->
+<!-- Activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurdodiya&bg_color=0d1117&color=5cb85c&line=5cb85c&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
 
-<!-- Snake contribution animation — NOTE: requires GitHub Actions setup.
-     Add the workflow below to your repo at .github/workflows/snake.yml
-     to generate the snake SVG automatically. See note at bottom. -->
+<!-- 
+  ⚠️ SNAKE ANIMATION — requires one-time GitHub Actions setup.
+  Until you set it up, this section is hidden so no broken image shows.
+  
+  SETUP STEPS:
+  1. In your mayurdodiya/mayurdodiya repo, create file:
+     .github/workflows/snake.yml
+  
+  2. Paste this content into that file:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mayurdodiya
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Go to Actions tab → Run workflow manually once.
+  4. After it succeeds, uncomment the img tag below:
+-->
+
+<!-- UNCOMMENT AFTER SNAKE WORKFLOW RUNS SUCCESSFULLY:
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayurdodiya/mayurdodiya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+-->
 
 ---
 
@@ -197,40 +234,3 @@
 
 <!-- Animated footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5CB85C&height=100&section=footer" width="100%" />
-
----
-
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║  ⚠️  SNAKE ANIMATION SETUP (One-time, required for snake SVG)   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Create this file in your GitHub profile repo:                  ║
-║  .github/workflows/snake.yml                                    ║
-║                                                                  ║
-║  Paste this content:                                             ║
-╚══════════════════════════════════════════════════════════════════╝
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mayurdodiya
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
