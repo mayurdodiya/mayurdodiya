@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/github/followers/mayurdodiya?label=Followers&style=social" alt="GitHub Followers" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-</p>
+</p> -->
 
 ### 💡 About Me
 
