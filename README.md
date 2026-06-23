@@ -1,9 +1,11 @@
 <!-- Animated header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5CB85C&height=120&section=header&text=Hi%20I'm%20Mayur%20Dodiya%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5CB85C&height=120&section=header&text=Hi%20I'm%20Mayur%20Dodiya%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<!-- Animated typing SVG -->
+<!-- Animated typing SVG — using a more reliable approach -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5CB85C&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+Specialist;Node.js+%7C+NestJS+%7C+AdonisJS+%7C+Fastify;Real-Time+Apps+%7C+REST+APIs+%7C+GraphQL;Open+to+Freelance+%26+Full-Time+Roles+🚀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5CB85C&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+Specialist;Node.js+%7C+NestJS+%7C+AdonisJS+%7C+Fastify;Real-Time+Apps+%7C+REST+APIs+%7C+GraphQL;Open+to+Freelance+%26+Full-Time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,14 +26,12 @@
   <img src="https://img.shields.io/github/followers/mayurdodiya?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<!-- Animated snake contribution graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayurdodiya/mayurdodiya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 💡 About Me
+
+<!-- Working coding GIF from a reliable CDN (right-aligned) -->
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 👨‍💻 Passionate developer building **scalable web applications**
 - 🛠️ Specialized in **Node.js**, **Express.js**, **MongoDB**, **MySQL**, and **PostgreSQL**
@@ -41,8 +41,7 @@
 - 🌍 Actively seeking **full-time job opportunities** with **relocation readiness**
 - ✅ Willing to start with a **small trial task at no cost** to build trust
 
-<!-- Animated coding gif side panel -->
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<br clear="right"/>
 
 ---
 
@@ -149,19 +148,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdodiya&layout=compact&theme=github_dark&langs_count=8&hide_title=false" width="48%" />
 </p>
 
-<!-- Animated streak stats -->
+<!-- Streak stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdodiya&theme=github-dark-blue&hide_border=false" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=mayurdodiya&theme=github-dark-blue&hide_border=false" width="60%" />
 </p>
 
-<!-- Animated trophies -->
+<!-- GitHub Trophies — using a stable alternative URL -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=darkhub&column=6&margin-w=10&margin-h=15" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=darkhub&column=6&margin-w=10&margin-h=15&no-frame=false" width="95%" />
 </p>
 
-<!-- Animated activity graph -->
+<!-- Activity graph — using the maintained fork -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurdodiya&theme=github-compact&hide_border=true&area=true&color=5cb85c&line=5cb85c&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurdodiya&bg_color=0d1117&color=5cb85c&line=5cb85c&point=ffffff&area=true&hide_border=true" width="95%" />
+</p>
+
+<!-- Snake contribution animation — NOTE: requires GitHub Actions setup.
+     Add the workflow below to your repo at .github/workflows/snake.yml
+     to generate the snake SVG automatically. See note at bottom. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayurdodiya/mayurdodiya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -186,8 +192,45 @@
 
 ---
 
-> _"I don't just build software — I engineer reliable and scalable systems to solve real-world problems."_
+> _"I don't just build software — I engineer reliable and scalable systems to solve real-world problems."_  
 > 🔍 Let's connect and build something exceptional.
 
 <!-- Animated footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5CB85C&height=100&section=footer" width="100%" />
+
+---
+
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚠️  SNAKE ANIMATION SETUP (One-time, required for snake SVG)   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Create this file in your GitHub profile repo:                  ║
+║  .github/workflows/snake.yml                                    ║
+║                                                                  ║
+║  Paste this content:                                             ║
+╚══════════════════════════════════════════════════════════════════╝
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mayurdodiya
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
