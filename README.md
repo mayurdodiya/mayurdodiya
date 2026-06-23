@@ -21,7 +21,10 @@
   <img src="https://img.shields.io/github/followers/mayurdodiya?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<hr style="border-color:#d0d7de;height:0.09px">
+<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b949e&height=1&width=100%" width="100%"/>
 
 ### 💡 About Me
 
