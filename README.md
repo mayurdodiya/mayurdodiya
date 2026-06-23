@@ -16,14 +16,12 @@
   <a href="https://github.com/mayurdodiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurdodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mayurdodiya?label=Followers&style=social" alt="GitHub Followers" />
-</p> -->
+</p>
 
-<!-- <p align="center">
-  <img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-</p> -->
+<hr style="border-color:#d0d7de;height:1px">
 
 ### 💡 About Me
 
@@ -35,7 +33,7 @@
 - 🌍 Actively seeking **full-time job opportunities** with **relocation readiness**
 - ✅ Willing to start with a **small trial task at no cost** to build trust
 
----
+<hr style="border-color:#d0d7de;height:1px">
 
 ### 🧰 Tech Stack
 
@@ -109,7 +107,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
----
+<hr style="border-color:#d0d7de;height:1px">
 
 ### 📈 Project Highlights
 
@@ -123,7 +121,7 @@
 | 🤖 **WhatsApp Chatbot** | Responsive chatbot using **Node.js** and **WhatsApp Cloud API** to automate user engagement |
 | 💳 **Payment Integrations** | Integrated **Stripe**, **PayPal**, **Razorpay**, and **Paytm** across multiple production projects |
 
----
+<hr style="border-color:#d0d7de;height:1px">
 
 ### 🌐 External APIs & Integrations
 
@@ -131,7 +129,7 @@
 - 📈 **IBKR (Interactive Brokers)** — Trading and financial data integration
 - 🔔 **Twilio** — SMS and voice communication services
 
----
+<hr style="border-color:#d0d7de;height:1px">
 
 ### 📊 GitHub Stats & Languages
 
@@ -144,21 +142,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdodiya&theme=github-dark-blue&hide_border=false" width="60%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=darkhub&column=6&margin-w=10&margin-h=15" width="95%" />
-</p>
+</p> -->
 
----
+<!-- <hr style="border-color:#d0d7de;height:1px"> -->
 
-### ☕ Like My Work?
+<!-- ### ☕ Like My Work?
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/mayurdodiya">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-</p>
+</p> -->
 
----
+<hr style="border-color:#d0d7de;height:1px">
 
 ### 📫 Contact Me
 
@@ -168,7 +166,7 @@
 - 🔗 **LinkedIn**: [linkedin.com/in/mayurdodiya](https://www.linkedin.com/in/mayurdodiya)
 - 💻 **GitHub**: [github.com/mayurdodiya](https://github.com/mayurdodiya)
 
----
+<hr style="border-color:#d0d7de;height:1px">
 
 > _"I don't just build software — I engineer reliable and scalable systems to solve real-world problems."_
 > 🔍 Let's connect and build something exceptional.
