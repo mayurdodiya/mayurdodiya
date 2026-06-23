@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurdodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mayurdodiya&label=Profile%20Viewss&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mayurdodiya?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -40,6 +40,8 @@
 #### 🗣️ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -74,6 +76,7 @@
 ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 #### 💳 Payment Gateways
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
@@ -116,10 +119,10 @@
 | 🛒 **E-Commerce** | Backend infrastructure for seamless online transactions using **MongoDB**, **ExpressJS**, **SendGrid**, and **DHL** integrations |
 | ⚡ **EV Solutions** | Real-time backend communication between charging stations and users using **AdonisJS** and **PostgreSQL** |
 | 💬 **Chat & Media App** | Real-time messaging with image/video processing using **Socket.io**, **ExpressJS**, and **MongoDB** |
-| 📊 **Financial Platform** | Microservices-driven trading app integrating **GraphQL**, **MailChimp**, and **Twilio** — Demat accounts & trade functionalities |
+| 📊 **Financial Platform** | Microservices-driven trading app integrating **GraphQL**, **MailChimp**, and **Twilio** Demat accounts & trade functionalities |
 | ☁️ **Serverless Web Apps** | Scalable, cost-effective apps using **AWS Lambda**, **Amplify**, and **DynamoDB** |
 | 🤖 **WhatsApp Chatbot** | Responsive chatbot using **Node.js** and **WhatsApp Cloud API** to automate user engagement |
-| 💳 **Payment Integrations** | Integrated **Stripe**, **PayPal**, **Razorpay**, and **Paytm** across multiple production projects |
+| 💳 **Payment Integrations** | Integrated **Stripe**, **PayPal**, **Crypto payments**, **Razorpay**, and **Paytm** across multiple production projects |
 
 <hr style="border-color:#d0d7de;height:1px">
 
