@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/mayurdodiya?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<hr style="border-color:#d0d7de;height:1px">
+<hr style="border-color:#d0d7de;height:0.2px">
 
 ### 💡 About Me
 
