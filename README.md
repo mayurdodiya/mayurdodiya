@@ -1,17 +1,14 @@
-<!-- Animated header wave -->
+
 <h1 align="center">👋 Hi, I'm Mayur Dodiya</h1>
-<!-- Animated typing SVG — using a more reliable approach -->
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5CB85C&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+Specialist;Node.js+%7C+NestJS+%7C+AdonisJS+%7C+Fastify;Real-Time+Apps+%7C+REST+APIs+%7C+GraphQL;Open+to+Freelance+%26+Full-Time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5CB85C&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Specialist;Node.js+%7C+Express+%7C+NestJS+%7C+AdonisJS;Open+to+Freelance+%26+Full-Time+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
   💼 3+ Years of Professional Experience in Development
 </p>
 
-<!-- Social badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mayurdodiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mayurdodiya1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,18 +16,16 @@
   <a href="https://github.com/mayurdodiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- Profile views + followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurdodiya&label=Profile%20Views&color=5cb85c&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mayurdodiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mayurdodiya?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+<p align="center">
+  <img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</p>
 
 ### 💡 About Me
-
-<!-- Working coding GIF from a reliable CDN (right-aligned) -->
-<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 👨‍💻 Passionate developer building **scalable web applications**
 - 🛠️ Specialized in **Node.js**, **Express.js**, **MongoDB**, **MySQL**, and **PostgreSQL**
@@ -39,8 +34,6 @@
 - 🤝 Open to **freelance, hourly, or project-based work**
 - 🌍 Actively seeking **full-time job opportunities** with **relocation readiness**
 - ✅ Willing to start with a **small trial task at no cost** to build trust
-
-<br clear="right"/>
 
 ---
 
@@ -147,64 +140,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdodiya&layout=compact&theme=github_dark&langs_count=8&hide_title=false" width="48%" />
 </p>
 
-<!-- Streak stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mayurdodiya&theme=github-dark-blue&hide_border=false" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdodiya&theme=github-dark-blue&hide_border=false" width="60%" />
 </p>
 
-<!-- GitHub Trophies — using ryo-ma's self-hosted stable instance -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=dark_lover&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurdodiya&theme=darkhub&column=6&margin-w=10&margin-h=15" width="95%" />
 </p>
-
-<!-- Activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurdodiya&bg_color=0d1117&color=5cb85c&line=5cb85c&point=ffffff&area=true&hide_border=true" width="95%" />
-</p>
-
-<!-- 
-  ⚠️ SNAKE ANIMATION — requires one-time GitHub Actions setup.
-  Until you set it up, this section is hidden so no broken image shows.
-  
-  SETUP STEPS:
-  1. In your mayurdodiya/mayurdodiya repo, create file:
-     .github/workflows/snake.yml
-  
-  2. Paste this content into that file:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mayurdodiya
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Go to Actions tab → Run workflow manually once.
-  4. After it succeeds, uncomment the img tag below:
--->
-
-<!-- UNCOMMENT AFTER SNAKE WORKFLOW RUNS SUCCESSFULLY:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayurdodiya/mayurdodiya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
--->
 
 ---
 
@@ -228,8 +170,5 @@ jobs:
 
 ---
 
-> _"I don't just build software — I engineer reliable and scalable systems to solve real-world problems."_  
+> _"I don't just build software — I engineer reliable and scalable systems to solve real-world problems."_
 > 🔍 Let's connect and build something exceptional.
-
-<!-- Animated footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5CB85C&height=100&section=footer" width="100%" />
