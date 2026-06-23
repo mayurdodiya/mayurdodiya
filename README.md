@@ -127,7 +127,7 @@
 | 🤖 **WhatsApp Chatbot** | Responsive chatbot using **Node.js** and **WhatsApp Cloud API** to automate user engagement |
 | 💳 **Payment Integrations** | Integrated **Stripe**, **PayPal**, **Crypto payments**, **Razorpay**, and **Paytm** across multiple production projects |
 
-<hr style="border-color:#d0d7de;height:1px">
+<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 🌐 External APIs & Integrations
 
